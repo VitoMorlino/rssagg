@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# environment file with local variables not needed in git
+.env
+
+# http requests for local testing purposes
+.http
